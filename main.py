@@ -4,10 +4,4 @@ print ("1 + 2 = ")
 print (a + b);
 
 nome = input("Qual seu nome?")
-
-
-
-
-
-
 print (f"Olá, {nome}")
